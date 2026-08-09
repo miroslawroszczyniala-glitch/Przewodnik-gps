@@ -1,1 +1,1 @@
-# Przewodnik-gps
+## Pomysł Aplikacja wykorzystuje GPS telefonu, aby rozpoznawać ciekawe miejsca znajdujące się na trasie użytkownika. Może działać podczas: - spaceru pieszego, - jazdy rowerem, - jazdy samochodem, - przejazdu autobusem lub autokarem. Gdy użytkownik zbliża się do zabytku lub ciekawego miejsca, aplikacja może automatycznie uruchomić opowieść przewodnika. Dla pieszego aplikacja może dodatkowo prowadzić użytkownika od jednego punktu do następnego i informować, co znajduje się po drodze.
